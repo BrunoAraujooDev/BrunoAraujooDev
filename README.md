@@ -15,8 +15,8 @@
 
 
 
-- 📚 I'm learning Java and Angular, and also developing my skills with ReactJs.
-- ❤️ Passionate by technology and soccer.
+- 📚 I'm keep learning ReactJS and I also have some skills with Java and Angular.
+- ❤️ Passionate by technology, games and soccer.
 - 💬 Ask me about anything, I am glad to help;
 - 🖱️ Fun fact: I used to be a pro player in the game called Smite, a moba, in 2014 until 2016.
 
